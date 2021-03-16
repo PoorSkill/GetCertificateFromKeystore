@@ -31,12 +31,3 @@ _so are you_
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-PoorSkill - [Twitter@poorskill](https://twitter.com/poorskill)
-
-Project Link: [GetCertificateFromKeystore](https://github.com/PoorSkill/GetCertificateFromKeystore)
